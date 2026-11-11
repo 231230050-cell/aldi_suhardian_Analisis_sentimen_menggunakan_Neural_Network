@@ -1,0 +1,2 @@
+# aldi_suhardian_Analisis_sentimen_menggunakan_Neural_Network
+Analisis sentimen menggunakan Neural Network
